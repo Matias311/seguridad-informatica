@@ -1,0 +1,284 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Untitled",
+        "htmlTitle": "Untitled",
+        "link": "https://biblus.us.es/bibing/proyectos/abreproy/12091/fichero/base+de+datos%252Fbbddjara%252FbbddJARA_MyISAM.sql",
+        "displayLink": "biblus.us.es",
+        "snippet": "-- MySQL dump 9.11 -- -- Host: localhost Database ... password` varchar(40) collate latin1_general_ci NOT NULL default '', `nombre` varchar(30) collate ...",
+        "htmlSnippet": "-- <b>MySQL dump</b> 9.11 -- -- Host: localhost Database ... <b>password</b>` varchar(40) collate latin1_general_ci NOT NULL default &#39;&#39;, `nombre` varchar(30) collate&nbsp;...",
+        "formattedUrl": "https://biblus.us.es/.../base+de+datos%252Fbbddjara%252FbbddJARA_MyI...",
+        "htmlFormattedUrl": "https://biblus.us.es/.../base+de+datos%252Fbbddjara%252FbbddJARA_MyI...",
+        "mime": "text/plain",
+        "fileFormat": "text/plain"
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "rnc_app/db/backup_rncdb.sql at master",
+        "htmlTitle": "rnc_app/db/backup_rncdb.sql at master",
+        "link": "https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql",
+        "displayLink": "github.com",
+        "snippet": "-- MySQL dump 10.13 Distrib 5.5.34, for Linux (x86_64) -- -- Host: localhost ... password` varchar(64) NOT NULL, `email` varchar(45) NOT NULL, `role ...",
+        "htmlSnippet": "-- <b>MySQL dump</b> 10.13 Distrib 5.5.34, for Linux (x86_64) -- -- Host: localhost ... <b>password</b>` varchar(64) NOT NULL, `email` varchar(45) NOT NULL, `role&nbsp;...",
+        "formattedUrl": "https://github.com/SIB-Colombia/rnc_app/blob/.../db/backup_rncdb.sql",
+        "htmlFormattedUrl": "https://github.com/SIB-Colombia/rnc_app/blob/.../db/backup_rncdb.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVexIWeAatS8Dwzru7Rc73OKnciiBXHeYoRPY02Ke183RfQeTjBWX_Rk0&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "SIB-Colombia",
+                    "name": "rnc_app"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql",
+                    "og:image": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:14450555",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "3aeab2d22e61086649890084e855e45b788c253b",
+                    "html-safe-nonce": "0921ac7b13ca7a00f053030e142e91ede1f928cddf0c031e917cb830fb50bac7",
+                    "expected-hostname": "github.com",
+                    "og:description": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "SIB-Colombia",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDNkY2OjJFRUVBMzoxNkE2NzFBOjFFOTE4OTQ6NjdFMzY2NjYiLCJ2aXNpdG9yX2lkIjoiMzU5NDcxNDQ0MjUyODY3OTU0NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "14450555",
+                    "octolytics-dimension-repository_network_root_nwo": "SIB-Colombia/rnc_app",
+                    "twitter:title": "rnc_app/db/backup_rncdb.sql at master · SIB-Colombia/rnc_app",
+                    "og:image:alt": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "rnc_app/db/backup_rncdb.sql at master · SIB-Colombia/rnc_app",
+                    "visitor-hmac": "c2b20d515fa32f0dc9ea34c92982b5993d92a42ede462eacb4ea7ff84f912aa9",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "C6F6:2EEEA3:16A671A:1E91894:67E36666",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/SIB-Colombia/rnc_app git https://github.com/SIB-Colombia/rnc_app.git",
+                    "octolytics-dimension-user_id": "3706920",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "14450555",
+                    "octolytics-dimension-repository_nwo": "SIB-Colombia/rnc_app",
+                    "viewport": "width=device-width",
+                    "twitter:description": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+        "htmlTitle": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+        "link": "https://mpv.cenditel.gob.ve/intercambio/browser/intercambio/BD/smid_stage_area.sql?rev=3d73865b3fbbd4a37d36e3ca93c50856af0f6449",
+        "displayLink": "mpv.cenditel.gob.ve",
+        "snippet": "... 100755. File size: 26.2 KB. Line. 1, -- MySQL dump 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- Host: localhost Database: stage_area. 4 ...",
+        "htmlSnippet": "... 100755. File size: 26.2 KB. Line. 1, -- <b>MySQL dump</b> 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- Host: localhost Database: stage_area. 4&nbsp;...",
+        "formattedUrl": "https://mpv.cenditel.gob.ve/intercambio/browser/.../smid_stage_area.sql?rev...",
+        "htmlFormattedUrl": "https://mpv.cenditel.gob.ve/intercambio/browser/.../smid_stage_area.sql?rev...",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cc17OhTjH5rlUejk1G8I8xIfOVXlHjT4lt4GBgnD6Qp40xSzTs33cFw&s",
+                    "width": "180",
+                    "height": "97"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://mpv.cenditel.gob.ve/intercambio/chrome/site/logo_cenditel.png"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora ...",
+        "htmlTitle": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora ...",
+        "link": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+        "displayLink": "github.com",
+        "snippet": "Blame. 741 lines (634 loc) · 717 KB. Raw. -- MySQL dump ... password` varchar(128) NOT NULL, `last_login` datetime DEFAULT NULL, `is_superuser` tinyint(1) NOT ...",
+        "htmlSnippet": "Blame. 741 lines (634 loc) · 717 KB. Raw. -- <b>MySQL dump</b> ... <b>password</b>` varchar(128) NOT NULL, `last_login` datetime DEFAULT NULL, `is_superuser` tinyint(1) NOT&nbsp;...",
+        "formattedUrl": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+        "htmlFormattedUrl": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXPsm3Pb_DNPaX-IknHtqtR9y6JQYNES2f9PVCnZgUPGdzdB_kRiuLPpG&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "ivancarrascoq",
+                    "name": "LaProtectora"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+                    "og:image": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:106872125",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "239c3ef558ef9e1cce652c627aec6e594db13e67c891fd331d0dc2107c47983e",
+                    "expected-hostname": "github.com",
+                    "og:description": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "ivancarrascoq",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MTU1OjM4QTA4NjpBNzMxMTk6RTBGQzgyOjY3RDkwQzA4IiwidmlzaXRvcl9pZCI6IjYzMzM1NDM3NTYzNzAzNDkwNjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "106872125",
+                    "octolytics-dimension-repository_network_root_nwo": "ivancarrascoq/LaProtectora",
+                    "twitter:title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora",
+                    "og:image:alt": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora",
+                    "visitor-hmac": "3693cb5306ad34a59074feec48bbcf0ec13d63f7cd591a73c8bb28ff4d76e77d",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "9155:38A086:A73119:E0FC82:67D90C08",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/ivancarrascoq/LaProtectora git https://github.com/ivancarrascoq/LaProtectora.git",
+                    "octolytics-dimension-user_id": "1585753",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "106872125",
+                    "octolytics-dimension-repository_nwo": "ivancarrascoq/LaProtectora",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso ...",
+        "htmlTitle": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso ...",
+        "link": "https://github.com/intelligenia/curso-angularjs-basico/blob/master/curso_2.sql",
+        "displayLink": "github.com",
+        "snippet": "-- MySQL dump 10.13 Distrib 5.5.55, for debian-linux-gnu (x86_64) -- -- Host ... password` varchar(128) NOT NULL, `last_login` datetime DEFAULT NULL ...",
+        "htmlSnippet": "-- <b>MySQL dump</b> 10.13 Distrib 5.5.55, for debian-linux-gnu (x86_64) -- -- Host ... <b>password</b>` varchar(128) NOT NULL, `last_login` datetime DEFAULT NULL&nbsp;...",
+        "formattedUrl": "https://github.com/intelligenia/curso-angularjs-basico/blob/.../curso_2.sql",
+        "htmlFormattedUrl": "https://github.com/intelligenia/curso-angularjs-basico/blob/.../curso_2.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQid5ztpZWu5CkF20T_MhnLFlZYeGIdqK439T9UJYHwPjsMzBFDfzgbvMqK&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "intelligenia",
+                    "name": "curso-angularjs-basico"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/intelligenia/curso-angularjs-basico/blob/master/curso_2.sql",
+                    "og:image": "https://opengraph.githubassets.com/79355574e57aff128d70d8568a3e1a0df998e534c556c6137bc010e61d2ceae8/intelligenia/curso-angularjs-basico",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:92168489",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "c8edcc3ddbf405fbb853d67a6941cb1d63afe7d552d3b9f762f6f90a589f9589",
+                    "expected-hostname": "github.com",
+                    "og:description": "material para el curso AngularJS nivel básico/medio - intelligenia/curso-angularjs-basico",
+                    "twitter:image": "https://opengraph.githubassets.com/79355574e57aff128d70d8568a3e1a0df998e534c556c6137bc010e61d2ceae8/intelligenia/curso-angularjs-basico",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "intelligenia",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5RTU2OjM5QjkxRDozMzFCNTA2OjQ1RUZGNUE6NjdEODAzNUQiLCJ2aXNpdG9yX2lkIjoiNjcyMTk5MDU5MzAwOTQxOTEwMiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "92168489",
+                    "octolytics-dimension-repository_network_root_nwo": "intelligenia/curso-angularjs-basico",
+                    "twitter:title": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso-angularjs-basico",
+                    "og:image:alt": "material para el curso AngularJS nivel básico/medio - intelligenia/curso-angularjs-basico",
+                    "og:type": "object",
+                    "og:title": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso-angularjs-basico",
+                    "visitor-hmac": "11693fdf3ee5feb3fbfb7fe375f4d7bd49579df19cce6ef6d32cd77333e3b86c",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "9E56:39B91D:331B506:45EFF5A:67D8035D",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/intelligenia/curso-angularjs-basico git https://github.com/intelligenia/curso-angularjs-basico.git",
+                    "octolytics-dimension-user_id": "3945495",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "92168489",
+                    "octolytics-dimension-repository_nwo": "intelligenia/curso-angularjs-basico",
+                    "viewport": "width=device-width",
+                    "twitter:description": "material para el curso AngularJS nivel básico/medio - intelligenia/curso-angularjs-basico",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/intelligenia/curso-angularjs-basico/blob/master/curso_2.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/79355574e57aff128d70d8568a3e1a0df998e534c556c6137bc010e61d2ceae8/intelligenia/curso-angularjs-basico"
+                }
+            ]
+        }
+    }
+]

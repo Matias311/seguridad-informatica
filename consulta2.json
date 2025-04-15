@@ -1,0 +1,1092 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Untitled",
+        "htmlTitle": "Untitled",
+        "link": "https://biblus.us.es/bibing/proyectos/abreproy/12091/fichero/base+de+datos%252Fbbddjara%252FbbddJARA_MyISAM.sql",
+        "displayLink": "biblus.us.es",
+        "snippet": "-- MySQL dump 9.11 -- -- Host: localhost Database: -- ------------------------------------------------------ -- Server version 4.0.24_Debian-10-log ...",
+        "htmlSnippet": "-- <b>MySQL dump</b> 9.11 -- -- <b>Host</b>: localhost Database: -- ------------------------------------------------------ -- Server version 4.0.24_Debian-10-log&nbsp;...",
+        "formattedUrl": "https://biblus.us.es/.../base+de+datos%252Fbbddjara%252FbbddJARA_MyI...",
+        "htmlFormattedUrl": "https://biblus.us.es/.../base+de+datos%252Fbbddjara%252FbbddJARA_MyI...",
+        "mime": "text/plain",
+        "fileFormat": "text/plain"
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "rnc_app/db/backup_rncdb.sql at master",
+        "htmlTitle": "rnc_app/db/backup_rncdb.sql at master",
+        "link": "https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql",
+        "displayLink": "github.com",
+        "snippet": "... metadata and controls. Code. Blame. 714 lines (623 loc) · 406 KB. Raw. -- MySQL dump 10.13 Distrib 5.5.34, for Linux (x86_64) -- -- Host: localhost Database: ...",
+        "htmlSnippet": "... metadata and controls. Code. Blame. 714 lines (623 loc) · 406 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.5.34, for Linux (x86_64) -- -- <b>Host</b>: localhost Database:&nbsp;...",
+        "formattedUrl": "https://github.com/SIB-Colombia/rnc_app/blob/.../db/backup_rncdb.sql",
+        "htmlFormattedUrl": "https://github.com/SIB-Colombia/rnc_app/blob/.../db/backup_rncdb.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVexIWeAatS8Dwzru7Rc73OKnciiBXHeYoRPY02Ke183RfQeTjBWX_Rk0&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "SIB-Colombia",
+                    "name": "rnc_app"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql",
+                    "og:image": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:14450555",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "3aeab2d22e61086649890084e855e45b788c253b",
+                    "html-safe-nonce": "0921ac7b13ca7a00f053030e142e91ede1f928cddf0c031e917cb830fb50bac7",
+                    "expected-hostname": "github.com",
+                    "og:description": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "SIB-Colombia",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDNkY2OjJFRUVBMzoxNkE2NzFBOjFFOTE4OTQ6NjdFMzY2NjYiLCJ2aXNpdG9yX2lkIjoiMzU5NDcxNDQ0MjUyODY3OTU0NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "14450555",
+                    "octolytics-dimension-repository_network_root_nwo": "SIB-Colombia/rnc_app",
+                    "twitter:title": "rnc_app/db/backup_rncdb.sql at master · SIB-Colombia/rnc_app",
+                    "og:image:alt": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "rnc_app/db/backup_rncdb.sql at master · SIB-Colombia/rnc_app",
+                    "visitor-hmac": "c2b20d515fa32f0dc9ea34c92982b5993d92a42ede462eacb4ea7ff84f912aa9",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "C6F6:2EEEA3:16A671A:1E91894:67E36666",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/SIB-Colombia/rnc_app git https://github.com/SIB-Colombia/rnc_app.git",
+                    "octolytics-dimension-user_id": "3706920",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "14450555",
+                    "octolytics-dimension-repository_nwo": "SIB-Colombia/rnc_app",
+                    "viewport": "width=device-width",
+                    "twitter:description": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora ...",
+        "htmlTitle": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora ...",
+        "link": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+        "displayLink": "github.com",
+        "snippet": "Blame. 741 lines (634 loc) · 717 KB. Raw. -- MySQL dump 10.13 Distrib 5.6.41, for Linux (x86_64) -- -- Host ...",
+        "htmlSnippet": "Blame. 741 lines (634 loc) · 717 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.6.41, for Linux (x86_64) -- -- <b>Host</b>&nbsp;...",
+        "formattedUrl": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+        "htmlFormattedUrl": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXPsm3Pb_DNPaX-IknHtqtR9y6JQYNES2f9PVCnZgUPGdzdB_kRiuLPpG&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "ivancarrascoq",
+                    "name": "LaProtectora"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+                    "og:image": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:106872125",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "239c3ef558ef9e1cce652c627aec6e594db13e67c891fd331d0dc2107c47983e",
+                    "expected-hostname": "github.com",
+                    "og:description": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "ivancarrascoq",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MTU1OjM4QTA4NjpBNzMxMTk6RTBGQzgyOjY3RDkwQzA4IiwidmlzaXRvcl9pZCI6IjYzMzM1NDM3NTYzNzAzNDkwNjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "106872125",
+                    "octolytics-dimension-repository_network_root_nwo": "ivancarrascoq/LaProtectora",
+                    "twitter:title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora",
+                    "og:image:alt": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora",
+                    "visitor-hmac": "3693cb5306ad34a59074feec48bbcf0ec13d63f7cd591a73c8bb28ff4d76e77d",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "9155:38A086:A73119:E0FC82:67D90C08",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/ivancarrascoq/LaProtectora git https://github.com/ivancarrascoq/LaProtectora.git",
+                    "octolytics-dimension-user_id": "1585753",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "106872125",
+                    "octolytics-dimension-repository_nwo": "ivancarrascoq/LaProtectora",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "swad-core/sql/degrees.sql at master · acanas/swad-core · GitHub",
+        "htmlTitle": "swad-core/sql/degrees.sql at master · acanas/swad-core · GitHub",
+        "link": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+        "displayLink": "github.com",
+        "snippet": "Code. Blame. 60 lines (53 loc) · 269 KB. Raw. -- MySQL dump 10.13 Distrib 5.1.73, for redhat-linux-gnu (x86_64) -- -- Host: localhost Database: swad ...",
+        "htmlSnippet": "Code. Blame. 60 lines (53 loc) · 269 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.1.73, for redhat-linux-gnu (x86_64) -- -- <b>Host</b>: localhost Database: swad&nbsp;...",
+        "formattedUrl": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+        "htmlFormattedUrl": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+        "pagemap": {
+            "softwaresourcecode": [
+                {
+                    "author": "acanas",
+                    "name": "swad-core"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+                    "og:image": "https://opengraph.githubassets.com/6e43397e802674989f07ca6330c9215a2cb2143e1df4dbd305ec96371736cd8e/acanas/swad-core",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:27399840",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "c452c9dda983c67755073a578000a324ee049ecd",
+                    "html-safe-nonce": "bb3357aa94028f2a888601a4087ad0d32ba0b58cd54ceae4bc08c52b6e9327db",
+                    "expected-hostname": "github.com",
+                    "og:description": "Main core for SWAD platform (Social Workspace At a Distance) - acanas/swad-core",
+                    "twitter:image": "https://opengraph.githubassets.com/6e43397e802674989f07ca6330c9215a2cb2143e1df4dbd305ec96371736cd8e/acanas/swad-core",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "acanas",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBQUE2OjE1OUI4NjoxQTk5MzQyOjIyQTk5NjM6NjdERjRGNjUiLCJ2aXNpdG9yX2lkIjoiODkxNDA4MzMzNDcxNDI0OTA2MiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "27399840",
+                    "octolytics-dimension-repository_network_root_nwo": "acanas/swad-core",
+                    "twitter:title": "swad-core/sql/degrees.sql at master · acanas/swad-core",
+                    "og:image:alt": "Main core for SWAD platform (Social Workspace At a Distance) - acanas/swad-core",
+                    "og:type": "object",
+                    "og:title": "swad-core/sql/degrees.sql at master · acanas/swad-core",
+                    "visitor-hmac": "1adc00dc1b6c60d285d2a45ad11757b3242fc8a30314aa7f2c066f2438b7dd14",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "AAA6:159B86:1A99342:22A9963:67DF4F65",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/acanas/swad-core git https://github.com/acanas/swad-core.git",
+                    "octolytics-dimension-user_id": "9986986",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "27399840",
+                    "octolytics-dimension-repository_nwo": "acanas/swad-core",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Main core for SWAD platform (Social Workspace At a Distance) - acanas/swad-core",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/6e43397e802674989f07ca6330c9215a2cb2143e1df4dbd305ec96371736cd8e/acanas/swad-core"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Sistema-de-Gestion-Don-Bosco/BaseDeDatos_DonBosco.sql at ...",
+        "htmlTitle": "Sistema-de-Gestion-Don-Bosco/BaseDeDatos_DonBosco.sql at ...",
+        "link": "https://github.com/alejandrombc/Sistema-de-Gestion-Don-Bosco/blob/master/BaseDeDatos_DonBosco.sql",
+        "displayLink": "github.com",
+        "snippet": "-- MySQL dump 10.12 -- -- Host: localhost Database: don_bosco -- ------------------------------------------------------ -- Server version 5.2.3-falcon-alpha ...",
+        "htmlSnippet": "-- <b>MySQL dump</b> 10.12 -- -- <b>Host</b>: localhost Database: don_bosco -- ------------------------------------------------------ -- Server version 5.2.3-falcon-alpha&nbsp;...",
+        "formattedUrl": "https://github.com/alejandrombc/Sistema.../BaseDeDatos_DonBosco.sql",
+        "htmlFormattedUrl": "https://github.com/alejandrombc/Sistema.../BaseDeDatos_DonBosco.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUn7tz96EWGIYCUlLUH1ImKYtiJrX-4rtZQL75xR0nfqLdYIxfbFuwVJs&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "alejandrombc",
+                    "name": "Sistema-de-Gestion-Don-Bosco"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/alejandrombc/Sistema-de-Gestion-Don-Bosco/blob/master/BaseDeDatos_DonBosco.sql",
+                    "og:image": "https://opengraph.githubassets.com/f53734be36a38247610cd2781845d829ed477989ab189baee0a6d974d6195292/alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:78068169",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "7a2aa3fac700d971897dd83e64814a76bb654089f29929df752d4f6db39b43e4",
+                    "expected-hostname": "github.com",
+                    "og:description": "Sistema de gestión para la Escuela Técnica Popular Don Bosco - alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "twitter:image": "https://opengraph.githubassets.com/f53734be36a38247610cd2781845d829ed477989ab189baee0a6d974d6195292/alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "alejandrombc",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFRTU0OjI2ODA6OTE2QzQ6Q0VDNjk6NjdDMUI5M0EiLCJ2aXNpdG9yX2lkIjoiODE1MjAyNzU1MzY3MTAwMjQzMyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "78068169",
+                    "octolytics-dimension-repository_network_root_nwo": "alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "twitter:title": "Sistema-de-Gestion-Don-Bosco/BaseDeDatos_DonBosco.sql at master · alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "og:image:alt": "Sistema de gestión para la Escuela Técnica Popular Don Bosco - alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "og:type": "object",
+                    "og:title": "Sistema-de-Gestion-Don-Bosco/BaseDeDatos_DonBosco.sql at master · alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "visitor-hmac": "9db122ba46c639f91a9f9b84d33831daf4d33d08ffe253c3f1f7d3da3cd45a2e",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "EE54:2680:916C4:CEC69:67C1B93A",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/alejandrombc/Sistema-de-Gestion-Don-Bosco git https://github.com/alejandrombc/Sistema-de-Gestion-Don-Bosco.git",
+                    "octolytics-dimension-user_id": "9141437",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "78068169",
+                    "octolytics-dimension-repository_nwo": "alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Sistema de gestión para la Escuela Técnica Popular Don Bosco - alejandrombc/Sistema-de-Gestion-Don-Bosco",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/alejandrombc/Sistema-de-Gestion-Don-Bosco/blob/master/BaseDeDatos_DonBosco.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/f53734be36a38247610cd2781845d829ed477989ab189baee0a6d974d6195292/alejandrombc/Sistema-de-Gestion-Don-Bosco"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso ...",
+        "htmlTitle": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso ...",
+        "link": "https://github.com/intelligenia/curso-angularjs-basico/blob/master/curso_2.sql",
+        "displayLink": "github.com",
+        "snippet": "Code. Blame. 698 lines (603 loc) · 459 KB. Raw. -- MySQL dump 10.13 Distrib 5.5.55, for debian-linux-gnu (x86_64) -- -- Host: localhost Database: curso_2 ...",
+        "htmlSnippet": "Code. Blame. 698 lines (603 loc) · 459 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.5.55, for debian-linux-gnu (x86_64) -- -- <b>Host</b>: localhost Database: curso_2&nbsp;...",
+        "formattedUrl": "https://github.com/intelligenia/curso-angularjs-basico/blob/.../curso_2.sql",
+        "htmlFormattedUrl": "https://github.com/intelligenia/curso-angularjs-basico/blob/.../curso_2.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQid5ztpZWu5CkF20T_MhnLFlZYeGIdqK439T9UJYHwPjsMzBFDfzgbvMqK&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "intelligenia",
+                    "name": "curso-angularjs-basico"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/intelligenia/curso-angularjs-basico/blob/master/curso_2.sql",
+                    "og:image": "https://opengraph.githubassets.com/79355574e57aff128d70d8568a3e1a0df998e534c556c6137bc010e61d2ceae8/intelligenia/curso-angularjs-basico",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:92168489",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "c8edcc3ddbf405fbb853d67a6941cb1d63afe7d552d3b9f762f6f90a589f9589",
+                    "expected-hostname": "github.com",
+                    "og:description": "material para el curso AngularJS nivel básico/medio - intelligenia/curso-angularjs-basico",
+                    "twitter:image": "https://opengraph.githubassets.com/79355574e57aff128d70d8568a3e1a0df998e534c556c6137bc010e61d2ceae8/intelligenia/curso-angularjs-basico",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "intelligenia",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5RTU2OjM5QjkxRDozMzFCNTA2OjQ1RUZGNUE6NjdEODAzNUQiLCJ2aXNpdG9yX2lkIjoiNjcyMTk5MDU5MzAwOTQxOTEwMiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "92168489",
+                    "octolytics-dimension-repository_network_root_nwo": "intelligenia/curso-angularjs-basico",
+                    "twitter:title": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso-angularjs-basico",
+                    "og:image:alt": "material para el curso AngularJS nivel básico/medio - intelligenia/curso-angularjs-basico",
+                    "og:type": "object",
+                    "og:title": "curso-angularjs-basico/curso_2.sql at master · intelligenia/curso-angularjs-basico",
+                    "visitor-hmac": "11693fdf3ee5feb3fbfb7fe375f4d7bd49579df19cce6ef6d32cd77333e3b86c",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "9E56:39B91D:331B506:45EFF5A:67D8035D",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/intelligenia/curso-angularjs-basico git https://github.com/intelligenia/curso-angularjs-basico.git",
+                    "octolytics-dimension-user_id": "3945495",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "92168489",
+                    "octolytics-dimension-repository_nwo": "intelligenia/curso-angularjs-basico",
+                    "viewport": "width=device-width",
+                    "twitter:description": "material para el curso AngularJS nivel básico/medio - intelligenia/curso-angularjs-basico",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/intelligenia/curso-angularjs-basico/blob/master/curso_2.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/79355574e57aff128d70d8568a3e1a0df998e534c556c6137bc010e61d2ceae8/intelligenia/curso-angularjs-basico"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "gidisc/zan_gidi 20-04-2012.sql at master · MilkZoft/gidisc · GitHub",
+        "htmlTitle": "gidisc/zan_gidi 20-04-2012.sql at master · MilkZoft/gidisc · GitHub",
+        "link": "https://github.com/MilkZoft/gidisc/blob/master/zan_gidi%2020-04-2012.sql",
+        "displayLink": "github.com",
+        "snippet": "Apr 20, 2012 ... Blame. 772 lines (665 loc) · 415 KB. Raw. -- MySQL dump 10.13 Distrib 5.1.62, for debian-linux-gnu (i486) -- -- Host: localhost Database: ...",
+        "htmlSnippet": "Apr 20, 2012 <b>...</b> Blame. 772 lines (665 loc) · 415 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.1.62, for debian-linux-gnu (i486) -- -- <b>Host</b>: localhost Database:&nbsp;...",
+        "formattedUrl": "https://github.com/MilkZoft/gidisc/blob/.../zan_gidi%2020-04-2012.sql",
+        "htmlFormattedUrl": "https://github.com/MilkZoft/gidisc/blob/.../zan_gidi%2020-04-2012.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl28rcxh3o0sTo7PDgu_lND3ezU-Ra3BE48IgJZ26KGPfOctRElrJBo9Y&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "MilkZoft",
+                    "name": "gidisc"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/MilkZoft/gidisc/blob/master/zan_gidi%2020-04-2012.sql",
+                    "og:image": "https://opengraph.githubassets.com/4c496829498db093ecfe024663d69e68d228d7c59518ec2e0f1b36af81c89a34/MilkZoft/gidisc",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:4975595",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "f3e989f3025d194b173ecf641e151befe1e5a006485120143a756e6b67d405a8",
+                    "expected-hostname": "github.com",
+                    "og:description": "Contribute to MilkZoft/gidisc development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/4c496829498db093ecfe024663d69e68d228d7c59518ec2e0f1b36af81c89a34/MilkZoft/gidisc",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "MilkZoft",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5NjJBOjM0M0I1Qjo4M0U1QzA6QUVCMUVEOjY3QzJGNEYwIiwidmlzaXRvcl9pZCI6IjI1MzM2NjU5OTA2NDI5NTU1MDQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "4975595",
+                    "octolytics-dimension-repository_network_root_nwo": "MilkZoft/gidisc",
+                    "twitter:title": "gidisc/zan_gidi 20-04-2012.sql at master · MilkZoft/gidisc",
+                    "og:image:alt": "Contribute to MilkZoft/gidisc development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "gidisc/zan_gidi 20-04-2012.sql at master · MilkZoft/gidisc",
+                    "visitor-hmac": "a27c4a9b510103c7bc80452650af6b69a7fd6d27eca91c9a3747015a4d69e5ad",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "962A:343B5B:83E5C0:AEB1ED:67C2F4F0",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/MilkZoft/gidisc git https://github.com/MilkZoft/gidisc.git",
+                    "octolytics-dimension-user_id": "571119",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "4975595",
+                    "octolytics-dimension-repository_nwo": "MilkZoft/gidisc",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Contribute to MilkZoft/gidisc development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/MilkZoft/gidisc/blob/master/zan_gidi%2020-04-2012.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/4c496829498db093ecfe024663d69e68d228d7c59518ec2e0f1b36af81c89a34/MilkZoft/gidisc"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "bolsatrabajo/database/bolsa_dump.sql at master · ChileAgil ...",
+        "htmlTitle": "bolsatrabajo/database/bolsa_dump.sql at master · ChileAgil ...",
+        "link": "https://github.com/ChileAgil/bolsatrabajo/blob/master/database/bolsa_dump.sql",
+        "displayLink": "github.com",
+        "snippet": "-- MySQL dump 10.13 Distrib 5.1.51, for Win32 (ia32) -- -- Host: localhost ... -- Host: localhost Database: bolsa.",
+        "htmlSnippet": "-- <b>MySQL dump</b> 10.13 Distrib 5.1.51, for Win32 (ia32) -- -- <b>Host</b>: localhost ... -- <b>Host</b>: localhost Database: bolsa.",
+        "formattedUrl": "https://github.com/ChileAgil/bolsatrabajo/blob/master/.../bolsa_dump.sql",
+        "htmlFormattedUrl": "https://github.com/ChileAgil/bolsatrabajo/blob/master/.../bolsa_dump.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcJxZdlOSBZhiwlq79JVYvDn-Nx83_iqdKHJdK4HUX9t5TeZooVapzgg&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "ChileAgil",
+                    "name": "bolsatrabajo"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/ChileAgil/bolsatrabajo/blob/master/database/bolsa_dump.sql",
+                    "og:image": "https://opengraph.githubassets.com/a46c75cfab269c18597ad5fbe7ea32977658252f73870ce7b3cce621b7181f65/ChileAgil/bolsatrabajo",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:1015440",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "9a9bbf70a604d5219699225582c9ab9abae3e80a",
+                    "html-safe-nonce": "44c03048a89126d027f4b2d215d15e0b0e70a4e41b2c3c3904dade200cdfa4af",
+                    "expected-hostname": "github.com",
+                    "og:description": "Contribute to ChileAgil/bolsatrabajo development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/a46c75cfab269c18597ad5fbe7ea32977658252f73870ce7b3cce621b7181f65/ChileAgil/bolsatrabajo",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "ChileAgil",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBOTJFOjFCOUJFNDoxMjg4M0RGOjE4QTZGQzM6NjdFRjg0RjIiLCJ2aXNpdG9yX2lkIjoiNDMzNjQxNzkxNTQ0ODI5NjcwMSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "1015440",
+                    "octolytics-dimension-repository_network_root_nwo": "ChileAgil/bolsatrabajo",
+                    "twitter:title": "bolsatrabajo/database/bolsa_dump.sql at master · ChileAgil/bolsatrabajo",
+                    "og:image:alt": "Contribute to ChileAgil/bolsatrabajo development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "bolsatrabajo/database/bolsa_dump.sql at master · ChileAgil/bolsatrabajo",
+                    "visitor-hmac": "9aeaf11f4002619d9737de2287b7f1ff9eab5cbedfeda86283882aa86f4675b1",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "A92E:1B9BE4:12883DF:18A6FC3:67EF84F2",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/ChileAgil/bolsatrabajo git https://github.com/ChileAgil/bolsatrabajo.git",
+                    "octolytics-dimension-user_id": "378186",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "1015440",
+                    "octolytics-dimension-repository_nwo": "ChileAgil/bolsatrabajo",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Contribute to ChileAgil/bolsatrabajo development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/ChileAgil/bolsatrabajo/blob/master/database/bolsa_dump.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/a46c75cfab269c18597ad5fbe7ea32977658252f73870ce7b3cce621b7181f65/ChileAgil/bolsatrabajo"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "BDnotaslaboratorio/data.sql at master · rbaena/BDnotaslaboratorio ...",
+        "htmlTitle": "BDnotaslaboratorio/data.sql at master · rbaena/BDnotaslaboratorio ...",
+        "link": "https://github.com/rbaena/BDnotaslaboratorio/blob/master/data.sql",
+        "displayLink": "github.com",
+        "snippet": "Blame. 1107 lines (972 loc) · 564 KB. Raw. -- MySQL dump 10.16 Distrib 10.1.26-MariaDB, for debian-linux-gnu (x86_64) -- -- Host ...",
+        "htmlSnippet": "Blame. 1107 lines (972 loc) · 564 KB. Raw. -- <b>MySQL dump</b> 10.16 Distrib 10.1.26-MariaDB, for debian-linux-gnu (x86_64) -- -- <b>Host</b>&nbsp;...",
+        "formattedUrl": "https://github.com/rbaena/BDnotaslaboratorio/blob/master/data.sql",
+        "htmlFormattedUrl": "https://github.com/rbaena/BDnotaslaboratorio/blob/master/data.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_1vnx_M6RpSwPjIMuoSKqf1r4mSTyp6RV8m_xGWDfAio_SicWm8jx9w&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "rbaena",
+                    "name": "BDnotaslaboratorio"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/rbaena/BDnotaslaboratorio/blob/master/data.sql",
+                    "og:image": "https://opengraph.githubassets.com/5a34ab3f284dde3359b1bda26d9d254a08c98c6ff5306804b4f21bc3c0f617f4/rbaena/BDnotaslaboratorio",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:183343856",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "7ad05c95b7537d4aa22608bf9dbbce66efb66691cad62fc8f2d01217dc8f5bbe",
+                    "expected-hostname": "github.com",
+                    "og:description": "Esta es una base de datos de laboratorio realizada en Microsoft Access y disponible también en MySQL. - rbaena/BDnotaslaboratorio",
+                    "twitter:image": "https://opengraph.githubassets.com/5a34ab3f284dde3359b1bda26d9d254a08c98c6ff5306804b4f21bc3c0f617f4/rbaena/BDnotaslaboratorio",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "rbaena",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDNjA1OjI1NTU2QToxMEQwQzUxOjE2NUEzNjk6NjdENEQ0MTQiLCJ2aXNpdG9yX2lkIjoiNzQxNTExMTcyODA0MjkyMzAzMyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "183343856",
+                    "octolytics-dimension-repository_network_root_nwo": "rbaena/BDnotaslaboratorio",
+                    "twitter:title": "BDnotaslaboratorio/data.sql at master · rbaena/BDnotaslaboratorio",
+                    "og:image:alt": "Esta es una base de datos de laboratorio realizada en Microsoft Access y disponible también en MySQL. - rbaena/BDnotaslaboratorio",
+                    "og:type": "object",
+                    "og:title": "BDnotaslaboratorio/data.sql at master · rbaena/BDnotaslaboratorio",
+                    "visitor-hmac": "4dc96a8206d4d12f9198c4094688b92bb4183b23cc468c011c1d4f100c316c76",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "C605:25556A:10D0C51:165A369:67D4D414",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/rbaena/BDnotaslaboratorio git https://github.com/rbaena/BDnotaslaboratorio.git",
+                    "octolytics-dimension-user_id": "5368774",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "183343856",
+                    "octolytics-dimension-repository_nwo": "rbaena/BDnotaslaboratorio",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Esta es una base de datos de laboratorio realizada en Microsoft Access y disponible también en MySQL. - rbaena/BDnotaslaboratorio",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/rbaena/BDnotaslaboratorio/blob/master/data.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/5a34ab3f284dde3359b1bda26d9d254a08c98c6ff5306804b4f21bc3c0f617f4/rbaena/BDnotaslaboratorio"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "kimkelen/restore/demo.sql at master · Desarrollo-CeSPI/kimkelen ...",
+        "htmlTitle": "kimkelen/restore/demo.sql at master · Desarrollo-CeSPI/kimkelen ...",
+        "link": "https://github.com/Desarrollo-CeSPI/kimkelen/blob/master/restore/demo.sql",
+        "displayLink": "github.com",
+        "snippet": "... MySQL dump 10.13 Distrib 5.1.41, for debian-linux-gnu (i486) -- -- Host: localhost Database: conservatorio ...",
+        "htmlSnippet": "... <b>MySQL dump</b> 10.13 Distrib 5.1.41, for debian-linux-gnu (i486) -- -- <b>Host</b>: localhost Database: conservatorio&nbsp;...",
+        "formattedUrl": "https://github.com/Desarrollo-CeSPI/kimkelen/blob/master/.../demo.sql",
+        "htmlFormattedUrl": "https://github.com/Desarrollo-CeSPI/kimkelen/blob/master/.../demo.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaU75cvi7KUgREiyjEP4mRf3moaq1ThGxwEVmlxhNcUfOX0dJrG65RLCo&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "Desarrollo-CeSPI",
+                    "name": "kimkelen"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/Desarrollo-CeSPI/kimkelen/blob/master/restore/demo.sql",
+                    "og:image": "https://opengraph.githubassets.com/8f43149da3b3891eed7f8c5ac58e93abbab4af5f6d5ba4540fccec619e914a02/Desarrollo-CeSPI/kimkelen",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:10387690",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "7781a360220ef1e07dad0bd10fec7e003eb6aa47",
+                    "html-safe-nonce": "be6dd95140253e6cbaaa9298d76688fa0dc1664f78817be558bee25f9d66b11f",
+                    "expected-hostname": "github.com",
+                    "og:description": "Sistema Integral de Gestión de Colegios. Contribute to Desarrollo-CeSPI/kimkelen development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/8f43149da3b3891eed7f8c5ac58e93abbab4af5f6d5ba4540fccec619e914a02/Desarrollo-CeSPI/kimkelen",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "Desarrollo-CeSPI",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNjMxOjFFMDJEQTozQjJDQkM6NEM4QzUwOjY3RjIzNzVFIiwidmlzaXRvcl9pZCI6IjgzMjgwMjkzMzkxNjQ3NTE3MTAiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "10387690",
+                    "octolytics-dimension-repository_network_root_nwo": "Desarrollo-CeSPI/kimkelen",
+                    "twitter:title": "kimkelen/restore/demo.sql at master · Desarrollo-CeSPI/kimkelen",
+                    "og:image:alt": "Sistema Integral de Gestión de Colegios. Contribute to Desarrollo-CeSPI/kimkelen development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "kimkelen/restore/demo.sql at master · Desarrollo-CeSPI/kimkelen",
+                    "visitor-hmac": "54bc6fa0784366467d13d9c233bc69d32d0bc1dca14d23eaf2c8ca024c94e8ba",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "E631:1E02DA:3B2CBC:4C8C50:67F2375E",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/Desarrollo-CeSPI/kimkelen git https://github.com/Desarrollo-CeSPI/kimkelen.git",
+                    "octolytics-dimension-user_id": "2373664",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "10387690",
+                    "octolytics-dimension-repository_nwo": "Desarrollo-CeSPI/kimkelen",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Sistema Integral de Gestión de Colegios. Contribute to Desarrollo-CeSPI/kimkelen development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/Desarrollo-CeSPI/kimkelen/blob/master/restore/demo.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/8f43149da3b3891eed7f8c5ac58e93abbab4af5f6d5ba4540fccec619e914a02/Desarrollo-CeSPI/kimkelen"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "tbike/db_tb.sql at master · luisse/tbike · GitHub",
+        "htmlTitle": "tbike/db_tb.sql at master · luisse/tbike · GitHub",
+        "link": "https://github.com/luisse/tbike/blob/master/db_tb.sql",
+        "displayLink": "github.com",
+        "snippet": "Blame. 1687 lines (1471 loc) · 428 KB. Raw. -- MySQL dump 10.13 Distrib 5.6.31, for debian-linux-gnu (i686) -- -- Host ... Host: </b>el servidor de correo que ...",
+        "htmlSnippet": "Blame. 1687 lines (1471 loc) · 428 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.6.31, for debian-linux-gnu (i686) -- -- <b>Host</b> ... <b>Host</b>: &lt;/b&gt;el servidor de correo que&nbsp;...",
+        "formattedUrl": "https://github.com/luisse/tbike/blob/master/db_tb.sql",
+        "htmlFormattedUrl": "https://github.com/luisse/tbike/blob/master/db_tb.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEZ_5nXIe-mkSlFibz6b4NLpCG_e-ECy-jwusjyXPdMDTzChxSCim6Hs&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "luisse",
+                    "name": "tbike"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/luisse/tbike/blob/master/db_tb.sql",
+                    "og:image": "https://opengraph.githubassets.com/72502930f4ac187b88b1c793239026aef9b35f4ba29f33bd479e359bf2db3076/luisse/tbike",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:83551506",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "677c3ae339ea14362ca843353d9aa323ea00d724cc62e12cfc5e7b6df16d7c27",
+                    "expected-hostname": "github.com",
+                    "og:description": "Contribute to luisse/tbike development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/72502930f4ac187b88b1c793239026aef9b35f4ba29f33bd479e359bf2db3076/luisse/tbike",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "luisse",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCMUEwOjFDMjQ0OToxQjkzNzg0OjI3NzMzNzI6NjdEOTlFODMiLCJ2aXNpdG9yX2lkIjoiODE5NjI2MTg2NDIzNTcwMzk0MCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "83551506",
+                    "octolytics-dimension-repository_network_root_nwo": "luisse/tbike",
+                    "twitter:title": "tbike/db_tb.sql at master · luisse/tbike",
+                    "og:image:alt": "Contribute to luisse/tbike development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "tbike/db_tb.sql at master · luisse/tbike",
+                    "visitor-hmac": "e8eb5e1ea3b440c11d158f98d960d0592bd5c0b337d58b01052fdf9cad399201",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "B1A0:1C2449:1B93784:2773372:67D99E83",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/luisse/tbike git https://github.com/luisse/tbike.git",
+                    "octolytics-dimension-user_id": "1265473",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "83551506",
+                    "octolytics-dimension-repository_nwo": "luisse/tbike",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Contribute to luisse/tbike development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/luisse/tbike/blob/master/db_tb.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/72502930f4ac187b88b1c793239026aef9b35f4ba29f33bd479e359bf2db3076/luisse/tbike"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+        "htmlTitle": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+        "link": "https://mpv.cenditel.gob.ve/intercambio/browser/intercambio/BD/smid_stage_area.sql?rev=3d73865b3fbbd4a37d36e3ca93c50856af0f6449",
+        "displayLink": "mpv.cenditel.gob.ve",
+        "snippet": "... 100755. File size: 26.2 KB. Line. 1, -- MySQL dump 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- Host: localhost Database: stage_area. 4 ...",
+        "htmlSnippet": "... 100755. File size: 26.2 KB. Line. 1, -- <b>MySQL dump</b> 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- <b>Host</b>: localhost Database: stage_area. 4&nbsp;...",
+        "formattedUrl": "https://mpv.cenditel.gob.ve/intercambio/browser/.../smid_stage_area.sql?rev...",
+        "htmlFormattedUrl": "https://mpv.cenditel.gob.ve/intercambio/browser/.../smid_stage_area.sql?rev...",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cc17OhTjH5rlUejk1G8I8xIfOVXlHjT4lt4GBgnD6Qp40xSzTs33cFw&s",
+                    "width": "180",
+                    "height": "97"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://mpv.cenditel.gob.ve/intercambio/chrome/site/logo_cenditel.png"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "ESCOM/optativas/DDB/examenes/exam2/credito16.sql at master ...",
+        "htmlTitle": "ESCOM/optativas/DDB/examenes/exam2/credito16.sql at master ...",
+        "link": "https://github.com/Ang3lino/ESCOM/blob/master/optativas/DDB/examenes/exam2/credito16.sql",
+        "displayLink": "github.com",
+        "snippet": "-- MySQL dump 10.13 Distrib 5.1.55, for Win32 (ia32) -- -- Host: localhost ... -- Host: localhost Database: dos.",
+        "htmlSnippet": "-- <b>MySQL dump</b> 10.13 Distrib 5.1.55, for Win32 (ia32) -- -- <b>Host</b>: localhost ... -- <b>Host</b>: localhost Database: dos.",
+        "formattedUrl": "https://github.com/Ang3lino/ESCOM/blob/master/optativas/.../credito16.sql",
+        "htmlFormattedUrl": "https://github.com/Ang3lino/ESCOM/blob/master/optativas/.../credito16.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihOHCBQw5BnKsHrRBiJ04YUTToL3MDGk00RxHWUM2YooW3FX-2Cwlsp0P&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "Ang3lino",
+                    "name": "ESCOM"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/Ang3lino/ESCOM/blob/master/optativas/DDB/examenes/exam2/credito16.sql",
+                    "og:image": "https://opengraph.githubassets.com/b6d2ccbe881a625d0e7921d52eb685ecb760388cd9b0eb7f56f196d594f94820/Ang3lino/ESCOM",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:87370403",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "html-safe-nonce": "8f909379b59a11dc4751f231d82d8aff1184ca67a6dc54470603ac493e72b528",
+                    "expected-hostname": "github.com",
+                    "og:description": "Contribute to Ang3lino/ESCOM development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/b6d2ccbe881a625d0e7921d52eb685ecb760388cd9b0eb7f56f196d594f94820/Ang3lino/ESCOM",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "Ang3lino",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGN0U0OjIzOEM4MTo5MTYyM0E6QzBGMkJDOjY3QzJGOTdGIiwidmlzaXRvcl9pZCI6IjgwOTkzODM3MzU3OTcwODY1OTMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "87370403",
+                    "octolytics-dimension-repository_network_root_nwo": "Ang3lino/ESCOM",
+                    "twitter:title": "ESCOM/optativas/DDB/examenes/exam2/credito16.sql at master · Ang3lino/ESCOM",
+                    "og:image:alt": "Contribute to Ang3lino/ESCOM development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "ESCOM/optativas/DDB/examenes/exam2/credito16.sql at master · Ang3lino/ESCOM",
+                    "visitor-hmac": "d33739dbcd75d6fe32f6bf3bab9c128f2d8c90ae5214e92b1a060a74cdf3a209",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "F7E4:238C81:91623A:C0F2BC:67C2F97F",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/Ang3lino/ESCOM git https://github.com/Ang3lino/ESCOM.git",
+                    "octolytics-dimension-user_id": "23348502",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "87370403",
+                    "octolytics-dimension-repository_nwo": "Ang3lino/ESCOM",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Contribute to Ang3lino/ESCOM development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/Ang3lino/ESCOM/blob/master/optativas/DDB/examenes/exam2/credito16.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/b6d2ccbe881a625d0e7921d52eb685ecb760388cd9b0eb7f56f196d594f94820/Ang3lino/ESCOM"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "theinvertebrates/prestashop.sql at master · vincent/theinvertebrates ...",
+        "htmlTitle": "theinvertebrates/prestashop.sql at master · vincent/theinvertebrates ...",
+        "link": "https://github.com/vincent/theinvertebrates/blob/master/prestashop.sql",
+        "displayLink": "github.com",
+        "snippet": "... 3792. 3793. 3794. 3795. 3796. 3797. 3798. 3799. -- MySQL dump 10.13 Distrib 5.1.41, for debian-linux-gnu (i486). --. -- Host: localhost Database: prestashop.",
+        "htmlSnippet": "... 3792. 3793. 3794. 3795. 3796. 3797. 3798. 3799. -- <b>MySQL dump</b> 10.13 Distrib 5.1.41, for debian-linux-gnu (i486). --. -- <b>Host</b>: localhost Database: prestashop.",
+        "formattedUrl": "https://github.com/vincent/theinvertebrates/blob/master/prestashop.sql",
+        "htmlFormattedUrl": "https://github.com/vincent/theinvertebrates/blob/master/prestashop.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjh87xwNXwubqwCCyRD6tkzdvGW3NQ5gruFkCNtS7RBIogOTLNmkJ7Z5X&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "vincent",
+                    "name": "theinvertebrates"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/vincent/theinvertebrates/blob/master/prestashop.sql",
+                    "og:image": "https://opengraph.githubassets.com/1873824779c5c60d4cd9ab9118173f59ceec626b7feda6964eb4052bacb90faf/vincent/theinvertebrates",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:1079702",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "a50909eea76185e3f5cb1ad97cedb2e3071b8c82",
+                    "html-safe-nonce": "92b7e954daee36213384541d8ea06f9ead4363fce6bf718e65b3af2201714f7e",
+                    "expected-hostname": "github.com",
+                    "og:description": "the Invertebrates website. Contribute to vincent/theinvertebrates development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/1873824779c5c60d4cd9ab9118173f59ceec626b7feda6964eb4052bacb90faf/vincent/theinvertebrates",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "vincent",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBQkQ3OjI1MDUwQzoxMzRGQUVFOjE5NzlGNDI6NjdFREZBMTAiLCJ2aXNpdG9yX2lkIjoiMjg0NzgzMzA4MTU5MjU0Mzc2MCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "1079702",
+                    "octolytics-dimension-repository_network_root_nwo": "vincent/theinvertebrates",
+                    "twitter:title": "theinvertebrates/prestashop.sql at master · vincent/theinvertebrates",
+                    "og:image:alt": "the Invertebrates website. Contribute to vincent/theinvertebrates development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "theinvertebrates/prestashop.sql at master · vincent/theinvertebrates",
+                    "visitor-hmac": "3f770981288302fbc5a1eb385a6df5fa18512d62099211cde546d7d8b85899a8",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "ABD7:25050C:134FAEE:1979F42:67EDFA10",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/vincent/theinvertebrates git https://github.com/vincent/theinvertebrates.git",
+                    "octolytics-dimension-user_id": "5623",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "1079702",
+                    "octolytics-dimension-repository_nwo": "vincent/theinvertebrates",
+                    "viewport": "width=device-width",
+                    "twitter:description": "the Invertebrates website. Contribute to vincent/theinvertebrates development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/vincent/theinvertebrates/blob/master/prestashop.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/1873824779c5c60d4cd9ab9118173f59ceec626b7feda6964eb4052bacb90faf/vincent/theinvertebrates"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "reunions/reunionsdb.sql at master · nulldiego/reunions · GitHub",
+        "htmlTitle": "reunions/reunionsdb.sql at master · nulldiego/reunions · GitHub",
+        "link": "https://github.com/nulldiego/reunions/blob/master/reunionsdb.sql",
+        "displayLink": "github.com",
+        "snippet": "-- MySQL dump 10.13 Distrib 5.7.12, for linux-glibc2.5 (x86_64) -- -- Host: localhost Database: reunions ...",
+        "htmlSnippet": "-- <b>MySQL dump</b> 10.13 Distrib 5.7.12, for linux-glibc2.5 (x86_64) -- -- <b>Host</b>: localhost Database: reunions&nbsp;...",
+        "formattedUrl": "https://github.com/nulldiego/reunions/blob/master/reunionsdb.sql",
+        "htmlFormattedUrl": "https://github.com/nulldiego/reunions/blob/master/reunionsdb.sql",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYjYyDTNfjZmCtbeptcII2wPakQmS7Dv1-m_x_1kRZ4vTyQhHkIsQrTs&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "softwaresourcecode": [
+                {
+                    "author": "nulldiego",
+                    "name": "reunions"
+                }
+            ],
+            "metatags": [
+                {
+                    "octolytics-url": "https://collector.github.com/github/collect",
+                    "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/nulldiego/reunions/blob/master/reunionsdb.sql",
+                    "og:image": "https://opengraph.githubassets.com/40a6952aa41de771a8fa960b8ae2badc319f89f36a48c0e7cf4d096cbaf99ce2/nulldiego/reunions",
+                    "twitter:card": "summary_large_image",
+                    "og:image:width": "1200",
+                    "theme-color": "#1e2327",
+                    "og:site_name": "GitHub",
+                    "hovercard-subject-tag": "repository:73891993",
+                    "turbo-body-classes": "logged-out env-production page-responsive",
+                    "release": "432e6af106a220f9882ed212739bfdbd4d44d6ae",
+                    "html-safe-nonce": "7d5eaf4eec3c6a6c95598bef1148262371a71f3fb9e5634350ab3c866e2673d8",
+                    "expected-hostname": "github.com",
+                    "og:description": "Contribute to nulldiego/reunions development by creating an account on GitHub.",
+                    "twitter:image": "https://opengraph.githubassets.com/40a6952aa41de771a8fa960b8ae2badc319f89f36a48c0e7cf4d096cbaf99ce2/nulldiego/reunions",
+                    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                    "octolytics-dimension-user_login": "nulldiego",
+                    "hostname": "github.com",
+                    "twitter:site": "@github",
+                    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                    "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+                    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFODFFOjIzNEZBRDozNDkxOEE1OjQ5NzcyMDc6NjdFQzYwMjgiLCJ2aXNpdG9yX2lkIjoiNjIxODQwODkzNzQzNDkzMTI0MSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+                    "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+                    "octolytics-dimension-repository_id": "73891993",
+                    "octolytics-dimension-repository_network_root_nwo": "nulldiego/reunions",
+                    "twitter:title": "reunions/reunionsdb.sql at master · nulldiego/reunions",
+                    "og:image:alt": "Contribute to nulldiego/reunions development by creating an account on GitHub.",
+                    "og:type": "object",
+                    "og:title": "reunions/reunionsdb.sql at master · nulldiego/reunions",
+                    "visitor-hmac": "cdcc80a5a28b22a66402ab96bde1d95f00fd233a03c84336cffb83a40002d75f",
+                    "og:image:height": "600",
+                    "turbo-cache-control": "no-preview",
+                    "route-action": "show",
+                    "request-id": "E81E:234FAD:34918A5:4977207:67EC6028",
+                    "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                    "color-scheme": "light dark",
+                    "octolytics-dimension-repository_is_fork": "false",
+                    "go-import": "github.com/nulldiego/reunions git https://github.com/nulldiego/reunions.git",
+                    "octolytics-dimension-user_id": "15674411",
+                    "octolytics-dimension-repository_public": "true",
+                    "fb:app_id": "1401488693436528",
+                    "octolytics-dimension-repository_network_root_id": "73891993",
+                    "octolytics-dimension-repository_nwo": "nulldiego/reunions",
+                    "viewport": "width=device-width",
+                    "twitter:description": "Contribute to nulldiego/reunions development by creating an account on GitHub.",
+                    "route-controller": "blob",
+                    "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+                    "og:url": "https://github.com/nulldiego/reunions/blob/master/reunionsdb.sql"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://opengraph.githubassets.com/40a6952aa41de771a8fa960b8ae2badc319f89f36a48c0e7cf4d096cbaf99ce2/nulldiego/reunions"
+                }
+            ]
+        }
+    }
+]

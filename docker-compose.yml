@@ -1,0 +1,13 @@
+services:
+  main-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: main-container
+    # agregado 
+    working_dir:
+      /app
+    volumes:
+      - .:/app
+    env_file:
+      - .env
